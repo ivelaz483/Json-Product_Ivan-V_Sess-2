@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Living Room Item 1",
+        "price": "499.99",
+        "image": "lrf1.jpg"
+    },
+
+    {
+        "name": "Living Room Item 2",
+        "price": "499.99",
+        "image": "lrf2.jpg"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Holy Chapel Sedona",
+        "address": "780 Chapel Rd, Sedona AZ, 86336",
+        "image":"images/chapel.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.963604823461!2d-111.76894318542104!3d34.83200758368333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872da69844c84035%3A0xc9ec47f79f1d063b!2sChapel%20of%20the%20Holy%20Cross!5e0!3m2!1sen!2sus!4v1647761882213!5m2!1sen!2sus  " 
+    },
+
+    {
+        "name": "Arizona Snowball Flagstaff",
+        "address": "9300 N Snow Bowl Rd, Flagstaff, AZ 86001",
+        "image":"images/horse.jpg",
+        "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3255.0042779418627!2d-111.70802548483077!3d35.33071525672287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872d87741004d2cd%3A0x4d6e27615eb5c167!2sArizona%20Snowbowl!5e0!3m2!1sen!2sus!4v1647763309284!5m2!1sen!2sus"
+    },
+    {
+        "name": "Mary",
+        "address": 1,
+        "map": true
+    },
+    {
+        "name": "Mike",
+        "address": 1,
+        "map": true
+    },
+    {
+        "name": "Jenny",
+        "address": 5,
+        "map": true
+    }
+]

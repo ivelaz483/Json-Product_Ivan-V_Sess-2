@@ -1,0 +1,65 @@
+[
+    {
+        "id":"lr1",
+        "name": "Living Room Item 1",
+        "price": "$499.99",
+        "image": "lrf1.jpg"
+    },
+
+    {
+        "id":"lr2",
+        "name": "Living Room Item 2",
+        "price": "$499.99",
+        "image": "lrf2.jpg"
+    },
+
+    {
+        "id":"lr3",
+        "name": "Living Room Item 3",
+        "price": "$499.99",
+        "image": "lrf3.jpg"
+    },
+
+    {
+        "id":"lr4",
+        "name": "Living Room Item 4",
+        "price": "$499.99",
+        "image": "lrf4.jpg"
+    },
+
+    {
+        "id":"lr5",
+        "name": "Living Room Item 5",
+        "price": "$499.99",
+        "image": "lrf5.jpg"
+    },
+
+    {
+        "id":"lr6",
+        "name": "Living Room Item 6",
+        "price": "$499.99",
+        "image": "lrf6.jpg"
+    },
+
+    {
+        "id":"lr7",
+        "name": "Living Room Item 7",
+        "price": "$499.99",
+        "image": "lrf7.jpg"
+    },
+
+    {
+        "id":"lr8",
+        "name": "Living Room Item 8",
+        "price": "$499.99",
+        "image": "lrf8.jpg"
+    },
+
+    {
+        "id":"lr9",
+        "name": "Living Room Item 9",
+        "price": "$499.99",
+        "image": "lrf9.jpg"
+    }
+
+]    
